@@ -31,13 +31,13 @@
     "LICENSE.txt"
   ],
   "devDependencies": {
-    "mocha": "2.0.1",
-    "should": "4.2.1",
-    "zuul": "1.13.0",
-    "jshint": "2.5.10",
-    "jscs": "1.7.3",
-    "istanbul": "0.3.2",
-    "uglify-js": "2.4.15"
+    "mocha": "3.1.2",
+    "should": "11.1.1",
+    "zuul": "3.11.1",
+    "jshint": "2.9.4",
+    "jscs": "3.0.7",
+    "istanbul": "0.4.5",
+    "uglify-js": "2.7.4"
   },
   "scripts": {
     "test": "npm run lint && npm run cover && npm run browser-test",
